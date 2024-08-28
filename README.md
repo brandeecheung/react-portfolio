@@ -48,4 +48,4 @@ The portfolio is designed with a mobile-first approach and incorporates a unique
 
 
 - [Deployed application](https://superb-cajeta-7afcc5.netlify.app)
-- [GitHub repository](https://superb-cajeta-7afcc5.netlify.app)
+- [GitHub repository](https://github.com/brandeecheung/react-portfolio)

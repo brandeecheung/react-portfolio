@@ -5,7 +5,7 @@
 
 As a web developer, being an active participant in the developer community is essential. Having a dedicated space to showcase your work, whether you're applying for jobs or collaborating with other developers, is crucial. This portfolio, built with React, is designed to help me stand out by using the latest technologies.
 
-The application is deployed on Netlify, following best practices for modern web development.
+The application is deployed on Render, following best practices for modern web development.
 
 ## User Story
 
